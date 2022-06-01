@@ -100,3 +100,7 @@ def main():
                 loc='rb',
             )
             imgviz.io.imsave(out_viz_file, viz)
+
+
+if __name__ == '__main__':
+    main()
