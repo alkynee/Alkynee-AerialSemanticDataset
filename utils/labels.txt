@@ -1,3 +1,5 @@
 __ignore__
 _background_
-ro
+road
+occluded_road
+v
