@@ -2,4 +2,4 @@ __ignore__
 _background_
 road
 occluded_road
-v
+vegetation
