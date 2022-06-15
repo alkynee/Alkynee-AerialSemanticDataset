@@ -3,4 +3,5 @@ glob
 os
 sys
 imgviz
-nump
+numpy
+labelme
