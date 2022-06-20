@@ -8,3 +8,15 @@ This is an aerial image dataset for semantic scene understanding under active de
 
 ## LOG
 |Date   | Log  |
+|---|---|
+| 2019.09.01  | Initialization  |
+| 2021.09.23  |  Alkynee Aerial Semantic Dataset released |
+
+
+## Dataset Overview:
+- Alkynee Aerial Semantic Dataset
+| class  | GT  | (R, G, B)  |
+|---|---|---|
+| _background_ | 0   | (0, 0, 0)  |
+| _road_ |  1 |  (128, 0, 0) |
+| _occluded_road_ |  2 | (0, 128, 0)  |
