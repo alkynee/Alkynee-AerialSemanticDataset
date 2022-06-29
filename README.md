@@ -35,3 +35,12 @@ Alkynee Aerial Semantic Dataset
 |          |       └───| gray_masks
 |          |       └───| rgb_masks
 |          └───   val
+|          |       └───| images 
+|          |       └───| gray_masks
+|          |       └───| rgb_masks
+|          |        
+|          |    .gitignore
+|          ...
+└───utils
+│   │  label_generator.py
+│   │  labels.txt 
