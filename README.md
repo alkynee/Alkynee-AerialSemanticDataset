@@ -20,3 +20,18 @@ This is an aerial image dataset for semantic scene understanding under active de
 | _background_ | 0   | (0, 0, 0)  |
 | _road_ |  1 |  (128, 0, 0) |
 | _occluded_road_ |  2 | (0, 128, 0)  |
+| _vegetation_ |  3 | (128, 128, 0)  |
+
+## Directory Structure:
+```
+Alkynee Aerial Semantic Dataset
+│
+└─── readme_images
+|
+└─────────data
+│          |
+│          └─── train
+|          |       └───| images 
+|          |       └───| gray_masks
+|          |       └───| rgb_masks
+|          └───   val
