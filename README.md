@@ -44,3 +44,14 @@ Alkynee Aerial Semantic Dataset
 └───utils
 │   │  label_generator.py
 │   │  labels.txt 
+│   │  requirements.txt
+│   ...
+│   
+|   .gitignore
+|    CITATION.cff
+|    LICENSE
+|    README.md
+|   ...
+```
+
+DESCRIPTION:<br />
