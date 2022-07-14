@@ -55,3 +55,15 @@ Alkynee Aerial Semantic Dataset
 ```
 
 DESCRIPTION:<br />
+|Folder Name| Description |
+|---|---|
+| train| contains three folders as images, rgb_masks, gray_masks|
+| val| contains three folders as images, rgb_masks, gray_masks|
+| images  | Aerial images captured by DJI Phantom 4 drone  |
+| rgb_masks | RGB masks of the corresponding images generated after annotations  |
+|  gray_masks    | Gray scale masks of the corresponding images     |
+| utils  | Important files related to dataset preparation  |
+
+
+## Benchmark
+The benchmark is available to seek improved solutions for the proposed dataset. The metrics used are OA (Overall Accuracy/pixelwise accuracy), mIoU (mean Intersection over Union). Researchers are encouraged to contribute!
