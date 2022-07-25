@@ -67,3 +67,17 @@ DESCRIPTION:<br />
 
 ## Benchmark
 The benchmark is available to seek improved solutions for the proposed dataset. The metrics used are OA (Overall Accuracy/pixelwise accuracy), mIoU (mean Intersection over Union). Researchers are encouraged to contribute!
+
+
+-Obtained Results
+| Models  | #Parameters  | OA | mIoU |
+|---------|--------------|----|------|
+|FCN-8s   |   136*M*           |  0.72  |  0.16     |
+|FCN-16s   |  134*M*            | 0.83   | 0.68     |
+|FCN-32s   |  134*M*            | 0.86   | 0.63     |
+|FC_Densenet_103   |  9.42*M* | 0.91   | 0.62     |
+|E-Net   |     350.65*K*         | 0.89   | 0.65    |
+|LinkNet   |   1.15*M*           | 0.93  |  0.46    |
+
+
+## Sample Images
