@@ -81,3 +81,21 @@ The benchmark is available to seek improved solutions for the proposed dataset. 
 
 
 ## Sample Images
+<table>
+     
+  <tr>
+    <td>image</td>
+     <td>mask</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/alkynee/Alkynee-AerialSemanticDataset/blob/main/readme_images/imgs/NITR_AC_JAN26_30.jpg" width=480 height=270></td>
+    <td><img src="https://github.com/alkynee/Alkynee-AerialSemanticDataset/blob/main/readme_images/seg_class/NITR_AC_JAN26_30.png" width=480 height=270></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/alkynee/Alkynee-AerialSemanticDataset/blob/main/readme_images/imgs/NITR_FR_1.jpg" width=480 height=270></td>
+    <td><img src="https://github.com/alkynee/Alkynee-AerialSemanticDataset/blob/main/readme_images/seg_class/NITR_FR_1.png" width=480 height=270></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/alkynee/Alkynee-AerialSemanticDataset/blob/main/readme_images/imgs/NITR_FR_6.jpg" width=480 height=270></td>
+    <td><img src="https://github.com/alkynee/Alkynee-AerialSemanticDataset/blob/main/readme_images/seg_class/NITR_FR_6.png" width=480 height=270></td>
+  </tr>
