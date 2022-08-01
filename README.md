@@ -99,3 +99,11 @@ The benchmark is available to seek improved solutions for the proposed dataset. 
     <td><img src="https://github.com/alkynee/Alkynee-AerialSemanticDataset/blob/main/readme_images/imgs/NITR_FR_6.jpg" width=480 height=270></td>
     <td><img src="https://github.com/alkynee/Alkynee-AerialSemanticDataset/blob/main/readme_images/seg_class/NITR_FR_6.png" width=480 height=270></td>
   </tr>
+ </table>
+
+## Download Link:
+- Alkynee Aerial Semantic Dataset: (train+val) <br />
+[GDrive](https://drive.google.com/drive/folders/1IQUadXFpEFEsB_9I5JVUuGJBjqIL5MFG?usp=sharing)
+
+
+## LICENSE:
