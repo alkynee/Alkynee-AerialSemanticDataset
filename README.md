@@ -107,3 +107,19 @@ The benchmark is available to seek improved solutions for the proposed dataset. 
 
 
 ## LICENSE:
+
+This dataset is licensed to Visual Surveillance Laboratory, Department of Computer Science and Engineering, National Institute of Technology, Rourkela, India. 
+
+## Citation & Acknowledgements
+
+This dataset is publicly available for non-commercial use only. If you use this dataset in your research or wish to refer to the baseline results, please cite the work with the following annotation:
+
+    @article{AlkyneeAerialSemanticDataset2021,
+        title={The Alkynee Aerial Semantic Dataset: Addressing Challenges in Road Extraction from Aerial Images},
+        author={Behera, Tanmay Kumar and Bakshi, Sambit and Sa, Pankaj Kumar and Nappi, Michael and Castiglione, Aniello and Vijayakumar, Pandi   and Gupta, Brij},        
+        journal = {Journal of Signal Processing Systems},
+        publisher={Springer},
+        year={2021}, 
+        note = "doi:10.1007/s11265-022-01777-0"
+     }
+   
